@@ -1,0 +1,106 @@
+CustomerID,Name,Age,Gender,Annual Income,Spending Score
+1,Lorraine Hall,62.0,Female,68395.0,36.0
+2,David Khan,65.0,Female,90155.0,92.0
+3,Patrick Rose,18.0,Female,68214.0,
+4,Joel Wilson-Rees,21.0,Male,30469.0,37.0
+5,Kirsty Owen-Jones,21.0,Female,73295.0,49.0
+6,Raymond Jones,,Female,104253.0,26.0
+7,Mrs Laura Marshall,27.0,Female,146551.0,68.0
+8,Ricky Anderson,37.0,Male,64488.0,36.0
+9,Mrs Lynne Grant,39.0,Female,68040.0,31.0
+10,Kathryn Foster-Ford,68.0,Other,46975.0,
+11,Stewart Clayton,54.0,Male,134489.0,34.0
+12,Geoffrey Baldwin,41.0,Female,147010.0,19.0
+13,Julie Hunt,,Other,45912.0,18.0
+14,Kate Blake,42.0,Male,58086.0,
+15,Ms Jodie Lloyd,,Other,336381.0,85.0
+16,Victor Allen-James,30.0,Male,45115.0,
+17,Joanne Carter,19.0,Female,148950.0,70.0
+18,Sam Hartley,56.0,Other,109983.0,13.0
+19,Mr Julian Morris,57.0,Other,,45.0
+20,Leah Hudson-Palmer,41.0,Female,124201.0,67.0
+21,Mr Gordon Williams,64.0,Male,149937.0,92.0
+22,Lynn Sharpe,42.0,Female,94223.0,86.0
+23,Mrs Judith Davies,35.0,Female,138406.0,40.0
+24,Deborah Harris,55.0,Male,41052.0,40.0
+25,Stephen Smith,43.0,Other,45741.0,76.0
+26,Leanne Stanley,31.0,Other,87368.0,23.0
+27,Sandra Smith,26.0,Other,124275.0,31.0
+28,Mrs Jean Simmons,27.0,Other,73986.0,18.0
+29,Carolyn Warren,38.0,Female,35103.0,71.0
+30,Callum Jones,69.0,Other,65050.0,72.0
+31,Lee Thorpe,34.0,Other,31740.0,19.0
+32,Hollie Skinner,,Other,85270.0,93.0
+33,Mathew Andrews,,Other,42579.0,44.0
+34,Katie Poole-Clarke,33.0,Other,101382.0,84.0
+35,Miss Maria Farrell,65.0,Male,424842.0,50.0
+36,Dr Guy Taylor,18.0,Female,77805.0,42.0
+37,Francesca Cunningham-Cooper,36.0,Other,50165.0,94.0
+38,Justin Walker,53.0,Other,,47.0
+39,Leslie Hanson,42.0,Female,114523.0,22.0
+40,Alex Godfrey-Chambers,67.0,Other,60752.0,74.0
+41,Eileen Bell,69.0,Female,119099.0,
+42,Hazel Fisher,47.0,Male,109464.0,97.0
+43,Lewis Moore,,Other,,92.0
+44,Natalie Scott-Cooper,37.0,Other,63930.0,74.0
+45,Sam Fletcher-Cox,32.0,Male,76774.0,29.0
+46,Leanne Sharpe,57.0,Other,58651.0,82.0
+47,Lawrence Evans,50.0,Male,92885.0,59.0
+48,Dr Pamela Norman,19.0,Male,,1.0
+49,Mr Elliot Hughes,27.0,Other,95180.0,87.0
+50,Jane Coleman,50.0,Male,128927.0,
+51,Abdul Sheppard,49.0,Other,127768.0,17.0
+52,Gordon Parker,28.0,Other,104498.0,37.0
+53,Mrs Rita Chan,41.0,Other,93003.0,95.0
+54,Shaun Perry-Garner,53.0,Male,115971.0,25.0
+55,Miss Lynda Ross,29.0,Male,64009.0,64.0
+56,Julie Robinson-Morgan,68.0,Male,,68.0
+57,Kerry Hunter,46.0,Female,99939.0,52.0
+58,Mr Albert Wilkins,52.0,Other,47582.0,
+59,Oliver Lloyd,18.0,Male,59844.0,57.0
+60,Declan Green-Higgins,18.0,Female,114917.0,92.0
+61,Wendy Saunders,54.0,Other,68429.0,94.0
+62,Dr Anna Wood,23.0,Other,111475.0,
+63,Helen Newman,56.0,Other,106323.0,33.0
+64,Valerie Ashton,58.0,Female,,20.0
+65,Philip Edwards,35.0,Male,90809.0,73.0
+66,Joanna Power,33.0,Male,32121.0,72.0
+67,Bethany Evans,22.0,Male,,88.0
+68,Dr Rebecca Hall,59.0,Male,119987.0,14.0
+69,Kelly Saunders,60.0,Other,33886.0,59.0
+70,Robin Jenkins,49.0,Other,71690.0,82.0
+71,Marcus Jones,19.0,Male,117986.0,56.0
+72,Josephine Collins,19.0,Male,110748.0,
+73,Eileen Parkinson,57.0,Male,105523.0,76.0
+74,Anna Smith,59.0,Female,146511.0,93.0
+75,Alex Smith,53.0,Other,143417.0,37.0
+76,Alex Poole-Harper,,Male,141021.0,26.0
+77,Miss Bethan Ward,29.0,Male,112119.0,33.0
+78,Ms Suzanne Kemp,64.0,Female,,43.0
+79,Judith Khan,,Male,35181.0,15.0
+80,Claire Frost,45.0,Other,73349.0,87.0
+81,Janet Gray,,Female,319734.0,29.0
+82,Simon Stevens,32.0,Female,72914.0,21.0
+83,Wayne Clarke,53.0,Female,100744.0,83.0
+84,Jade Pugh,30.0,Male,101713.0,69.0
+85,Mr Simon Howell,60.0,Male,143285.0,23.0
+86,Dr Joan Spencer,38.0,Male,93720.0,84.0
+87,Scott Roberts,,Female,100399.0,8.0
+88,Amanda Lloyd,22.0,Female,146480.0,73.0
+89,Karen Lee,24.0,Other,146171.0,62.0
+90,Stanley Joyce,22.0,Female,77394.0,14.0
+91,Dr Robin Goodwin,65.0,Male,103925.0,6.0
+92,Liam Bradley,21.0,Male,30894.0,1.0
+93,Mr Tom Williams,30.0,Female,93413.0,9.0
+94,Ms Naomi Todd,54.0,Other,,80.0
+95,Adam Marshall-Mason,58.0,Female,60142.0,80.0
+96,Charlene Baker,32.0,Female,,54.0
+97,Kayleigh Ford-Morris,33.0,Female,56813.0,12.0
+98,Elaine Reynolds-Wilson,38.0,Male,69041.0,5.0
+99,Mr Damian Brady,53.0,Male,268803.0,40.0
+100,Irene Lloyd,41.0,Male,121504.0,
+47,Lawrence Evans,50.0,Male,92885.0,59.0
+92,Liam Bradley,21.0,Male,30894.0,1.0
+26,Leanne Stanley,31.0,Other,87368.0,23.0
+99,Mr Damian Brady,53.0,Male,268803.0,40.0
+56,Julie Robinson-Morgan,68.0,Male,,68.0
